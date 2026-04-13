@@ -1,0 +1,6 @@
+python-telegram-bot==20.3
+yt-dlp
+requests
+flask
+beautifulsoup4
+lxml
